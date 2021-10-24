@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Zen+Antique+Soft&display=swap');
+
+body {
+    
+    font-family: 'Zen Antique Soft', serif;
+    color:#18202C;
+    padding-bottom: 75px;
+ }
+ 
+ h1 {
+     font-size: 60px;
+ }
+ 
+ .jumbotron {
+    border-radius: 10px 100px / 120px;
+     box-sizing: border-box;
+     width: 100%;
+     padding: 5px;
+     background-color: red;
+     color: whitesmoke;
+ }
+ 
+ .employee-card {
+     min-width: 275px;
+     max-width: 325px;
+     margin: 50px 25px;
+     box-shadow: 12px 12px rgb(136, 132, 132);
+ }
+ 
+ .card-header {
+     background-color:#3858be;
+     border-bottom-style: none;
+     height: 130px;
+     padding: 20px;
+     text-align: center;
+     color: whitesmoke;
+ }
+ 
+ h2 {
+     font-weight: 500;
+ }
+ 
+ h3 {
+     font-size: 18px;
+ }

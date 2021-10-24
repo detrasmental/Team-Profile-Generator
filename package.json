@@ -1,0 +1,22 @@
+{
+  "name": "team-profile-generator",
+  "version": "1.0.0",
+  "description": "Object-Oriented Programming Challenge",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/detrasmental/Team-Profile-Generator.git"
+  },
+  "author": "detrasmental",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/detrasmental/Team-Profile-Generator/issues"
+  },
+  "homepage": "https://github.com/detrasmental/Team-Profile-Generator#readme",
+  "devDependencies": {
+    "jest": "^27.3.1"
+  }
+}
