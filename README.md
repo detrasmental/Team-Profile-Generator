@@ -6,7 +6,7 @@
 
 
 ## Repository
-https://github.com/detrasmental/Team-Profile-Generator
+https://detrasmental.github.io/Team-Profile-Generator/
 
 ## Description
 A webpage generator that display's a team's basic information so that you have quick acces to email addresses and GitHub profiles.
